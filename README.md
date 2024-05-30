@@ -1,6 +1,6 @@
 # ESWA2022_GraphIC
 
-**GraphIC: A Graph-based Approach for Identifying Complaints from code-mixed product reviews**
+**[GraphIC: A Graph-based Approach for Identifying Complaints from code-mixed product reviews](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024630)**
 
 This repository contains the dataset for our Expert System with Applications 2022 paper- [GraphIC: A Graph-based Approach for Identifying Complaints from code-mixed product reviews](https://www.sciencedirect.com/science/article/pii/S0957417422024630). 
 
